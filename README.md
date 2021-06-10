@@ -1,0 +1,3 @@
+```
+yarn expo start
+```

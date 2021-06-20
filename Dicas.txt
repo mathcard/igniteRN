@@ -1,0 +1,15 @@
+
+yarn expo start
+
+
+Utilização de fontes personalizadas com expo
+yarn expo install expo-font @expo-google-fonts/___nome__da__fonte
+
+Tela de splash
+yarn expo install expo-app-loading
+
+Reponsividade React
+yarn add react-native-responsive-fontsize
+
+Ajuste no topo superior do iphone
+yarn add react-native-iphone-x-helper

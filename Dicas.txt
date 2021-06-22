@@ -29,3 +29,5 @@ yarn add react-native-reanimated react-native-gesture-handler react-native-scree
 
 Tab Navigator
 yarn add @react-navigation/bottom-tabs
+
+React Native Gesture Handler - utiliza funções conforme sistema

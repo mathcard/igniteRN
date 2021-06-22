@@ -13,3 +13,19 @@ yarn add react-native-responsive-fontsize
 
 Ajuste no topo superior do iphone
 yarn add react-native-iphone-x-helper
+
+TouchableWithoutFeedback - oculta o teclado
+
+
+-- React Hook Form
+yarn add react-hook-form
+
+-- Validação com Yup
+yarn add @hookform/resolvers yup
+
+-- Navegação
+yarn add react-navigation/native
+yarn add react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view
+
+Tab Navigator
+yarn add @react-navigation/bottom-tabs

@@ -31,3 +31,7 @@ Tab Navigator
 yarn add @react-navigation/bottom-tabs
 
 React Native Gesture Handler - utiliza funções conforme sistema
+
+
+Async Storage
+yarn expo install @react-native-async-storage/async-storage
